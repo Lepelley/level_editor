@@ -1,0 +1,12 @@
+#root
+{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.popUp
+{
+    border: 1px solid;
+    position: absolute;
+    z-index: 999;
+}
